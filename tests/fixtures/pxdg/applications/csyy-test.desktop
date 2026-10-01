@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=测试应用
+Comment=模拟"刚装好的中文软件"，用来验证新装应用能否被拼音搜到
+Exec=/bin/true
+Icon=applications-utilities
+Categories=Utility;

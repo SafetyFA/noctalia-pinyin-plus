@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=覆盖演示
+Comment=用户级版本
+Exec=/bin/true
+Icon=applications-utilities

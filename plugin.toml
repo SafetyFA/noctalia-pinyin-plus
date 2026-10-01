@@ -1,0 +1,15 @@
+id = "safety/pinyin-plus"
+name = "Pinyin Plus"
+version = "1.0.0"
+plugin_api = 22
+author = "safety"
+license = "MIT"
+icon = "language"
+description = "Listary 风格中文应用搜索：全拼 / 首字母 / 子序列；运行时索引、无需 python、不会和内置结果重复"
+tags = ["launcher", "pinyin", "chinese"]
+
+[[launcher_provider]]
+id = "pinyin"
+entry = "provider.luau"
+glyph = "language"
+include_in_global_search = true
